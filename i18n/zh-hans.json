@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"KHwang9883"
+		]
+	},
+	"authflarum-connection-form-label": "本 Wiki 使用论坛账号进行登录。你必须先在论坛注册，然后才能登录。",
+	"authflarum-change-not-allowed": "不允许进行这些更改。",
+	"authflarum-autocreate-fail": "无法通过论坛创建账户。",
+	"authflarum-autocreate-no-enough": "你在论坛的发帖数量不足，无法登录。"
+}
